@@ -17,6 +17,14 @@ cd cm_api/python
 python setup.py install
 ```
 
+The CM API Time-series script can then be installed via:
+
+```bash
+git clone git@github.com:ggear/cm-api-timeseries.git
+cd cm-api-timeseries
+```
+
+
 # Running
 
 Example usages:
@@ -32,3 +40,5 @@ Example usages:
 ```
 
 For details on how to define valid queries, see the [CM tsquery language reference](http://www.cloudera.com/content/cloudera-content/cloudera-docs/CM4Ent/latest/Cloudera-Manager-Diagnostics-Guide/cmdg_tsquery.html).
+
+The output is 
