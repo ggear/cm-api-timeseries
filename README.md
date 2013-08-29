@@ -41,4 +41,4 @@ Example usages:
 
 For details on how to define valid queries, see the [CM tsquery language reference](http://www.cloudera.com/content/cloudera-content/cloudera-docs/CM4Ent/latest/Cloudera-Manager-Diagnostics-Guide/cmdg_tsquery.html).
 
-The output is 
+The console output is structed as a CSV and can therefore be piped to a file for looking at using a CSV reader (eg Excel, OpenOffice etc) and further analysis.
