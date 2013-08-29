@@ -2,12 +2,12 @@
 
 Provide the aggregated timeseries for a given query in CSV format
 
-# Requirements
+## Requirements
 
 * Python 2.7+
 * CM API Python Client
 
-# Install
+## Install
 
 The CM API Python Client is a dependency and must be installed via:
 
@@ -24,8 +24,7 @@ git clone git@github.com:ggear/cm-api-timeseries.git
 cd cm-api-timeseries
 ```
 
-
-# Running
+## Running
 
 Example usages:
 
